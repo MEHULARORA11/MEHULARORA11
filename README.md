@@ -2,7 +2,7 @@
 # Hi, I'm Mehul
 I'm a software enthusiast who loves to learn by building real world Projects
 Currently I am a beginner and love to explore different technologies<br><br>
-Using the 'T' approach I figured out my real interest is in dynamic languages like js Images !
+Using the 'T' approach I figured out my real interest is in dynamic languages like js
 <img src="https://tse2.mm.bing.net/th/id/OIP.xYGtpswNsoJ6WqvmA75CsgHaHa?pid=Api&P=0&h=180!" width="50" height="23" style = "position:relative;top:10px">
 ,python <img src="https://logodix.com/logo/729331.png" width="60" height="28" style = "position:relative;top:10px"><br>
 # About Me<br>
