@@ -9,7 +9,7 @@ Using the 'T' approach I figured out my real interest is in dynamic languages li
 <ul>
 <li><span style="font-weight:750">Background:</span>YMCA Faridabad,Web Development</li>
 <li><span style="font-weight:750">Learning:</span>Building Scalable Websites,DSA</li>
-<li><span style="font-weight:750">Goal:</span>To become a strong SDE and provide meaningful contributions to the society yhrough My skills</li>
+<li><span style="font-weight:750">Goal:</span>To become a strong SDE and provide meaningful contributions to the society through My skills</li>
 </ul> <br/>
 
 # Tech Stack <br>
