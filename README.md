@@ -14,9 +14,28 @@ Using the 'T' approach I figured out my real interest is in dynamic languages li
 ![](https://github-readme-stats.vercel.app/api?username=MEHULARORA11&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MEHULARORA11&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MEHULARORA11&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+---
+
+# Projects
+
+<ul>
+<li style="list-style:none;">🔹<span style="font-style:none;font-weight:750">To Do App:</span></li><pre><li>It has a Drag And Drop Feature. It can Store your task in the browser
+ local Storeage. It has an edit and a delete button. It is responsive</li><li>Through this Project I have ace the core fundamentals of JavaScript, 
+  Also learned about localStorage And sessionStorage throgh it</li></pre>
+<li style="list-style:none;">🔹<span style="font-style:none;font-weight:750">Random Number Game:</span></li><pre><li>It throws alert on invalid Number Moreover guides you
+ whether you have guessed a Higher or a lower Number</li><li>Throgh This project i have mastered DOM and the industry standards
+  and protocols how the restriction should be applied to the user</li></pre>
+<li style="list-style:none;">🔹<span style="font-style:none;font-weight:750">Currency Exchanger:</span></li><pre><li>It has custom 140+ countries data</li><li>Through this project I have Learned A lot about Application 
+of API's specially through GET method</li></pre>
+
+
+</ul><br/>
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+AN+Aspiring+Software+Developer;I+am+Fond+of+learning+new+Technologies;Currently+Learning+by+building+)](https://git.io/typing-svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=MEHULARORA11&icon=6&color=4)](https://visitcount.itsvg.in)
+
+
+
 
