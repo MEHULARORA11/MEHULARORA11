@@ -2,7 +2,7 @@
 ## Hi, I'm Mehul
 I'm a software enthusiast who loves to learn by building real world Projects
 Currently I am a beginner and love to explore different technologies<br><br>
-Using the 'T' approach I figured out my real interest is in dynamic languages like js
+Using the 'T' approach I figured out my real interest is in dynamic languages like  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) , ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) and their frameworks
 
 
 ## 🌐 Socials:
